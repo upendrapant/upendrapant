@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Upendra Pant!  
 
-### 🚀 AI/ML Enthusiast | Python Developer | Computer Engineering Student  
+###  AI/ML Enthusiast | Python Developer | Computer Engineering Student  
 
 I love building real-world applications that leverage **AI & Machine Learning** to solve problems. My main stack includes:  
 - 🐍 **Python** (primary language)  
@@ -20,4 +20,3 @@ I love building real-world applications that leverage **AI & Machine Learning** 
 - 📧 [Email](pantupendra97@gmail.com)  
 - 🖥️ [Portfolio/Website](https://www.upendrapant.com.np/)  
 
-🚀 Always learning, always building! 
