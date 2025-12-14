@@ -1,25 +1,23 @@
-# Upendra Pant
+# Hi there, I'm Upendra Pant 👋
 
 > **AI/ML Engineer & Automation Specialist**
-> Focus: *Generative AI • LLMs • Computer Vision • Intelligent Agents*
+> : *Generative AI • LLMs • Automation • Intelligent Agents*
 
-I specialize in building production-ready AI systems. My work bridges the gap between state-of-the-art models (LLMs, Diffusion, CV) and real-world business automation. I don't just train models; I build intelligent workflows that solve problems.
+I am a freelance engineer based in **Kathmandu**, dedicated to bridging the gap between state-of-the-art AI models and real-world business applications. I specialize in building intelligent workflows, RAG pipelines, and autonomous agents.
 
-### ⚡ Core Focus
-* **Generative AI & LLMs:** Building RAG pipelines, fine-tuning models, and creating autonomous agents.
-* **Machine Learning:** Computer Vision solutions (Object Detection) and predictive analytics.
-* **Automation:** End-to-end workflow automation integrating AI into web/mobile apps.
-
+- 🔭 I’m currently working on **LLM-powered automation agents**
+- 💼 I’m open to freelance projects on **[Upwork](https://www.upwork.com/freelancers/~0171660bc7c28ff097)**
+- 🌍 Check out my portfolio: **[upendrapant.com.np](https://www.upendrapant.com.np/)**
 ---
 
 ### 🛠️ Technology Stack
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Generative AI** | `LangChain` `OpenAI API` `HuggingFace` `LlamaIndex` |
-| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) `OpenCV` `Scikit-learn` |
-| **Deployment** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) `FastAPI` `GCP/AWS` |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Generative AI** | `LangChain` `OpenAI API` `HuggingFace` |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Deployment** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 
 ---
 
