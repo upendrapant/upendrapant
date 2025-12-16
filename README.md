@@ -20,4 +20,3 @@ I bridge the gap between **Generative AI** and **Real-World Business Application
 | **💻 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **🧠 LLMs** | `GPT-4o` `Claude 3.5 Sonnet` `Llama-3 (Local/Ollama)...` |
 
----
