@@ -21,8 +21,3 @@ I bridge the gap between **Generative AI** and **Real-World Business Application
 | **🧠 LLMs** | `GPT-4o` `Claude 3.5 Sonnet` `Llama-3 (Local/Ollama)...` |
 
 ---
-
-### 🔭 Current Focus
-- Creating **Generative UI** components that render dynamic React interfaces based on AI intent.
-- Working on **Local Inference** to runquantized models on edge devices for privacy.
-- Orchestrating **Autonomous Agents** that can plan and execute multi-step workflows.
