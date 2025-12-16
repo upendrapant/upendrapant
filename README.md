@@ -21,8 +21,3 @@ I bridge the gap between **Generative AI** and **Real-World Business Application
 | **🧠 LLMs** | `GPT-4o` `Claude 3.5 Sonnet` `Llama-3 (Local/Ollama)...` |
 
 ---
-
-### 🔭 Current Focus
-- Orchestrating **Autonomous Agents** (LangGraph) that can plan and execute multi-step workflows.
-- Implementing **Advanced RAG** (Hybrid Search + Re-ranking) for high-precision data retrieval.
-- Optimizing **LLM Latency** and cost-efficiency for production-scale applications.
